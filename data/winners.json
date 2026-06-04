@@ -3,18 +3,18 @@
     "name": "Irshad",
     "year": "2022",
     "position": "Champion",
-    "photo": "assets\p winners\first.jpeg"
+    "photo": "assets/p winners/first.jpeg"
   },
   {
     "name": "Abdul Gafoor",
     "year": "2022",
     "position": "Runner Up",
-    "photo": "assets\p winners\second.jpeg"
+    "photo": "assets/p winners/second.jpeg"
   },
   {
     "name": "Sharun",
     "year": "2022",
     "position": "Third Place",
-    "photo": "assets\p winners\third.jpeg"
+    "photo": "assets/p winners/third.jpeg"
   },
 ]
